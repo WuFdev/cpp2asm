@@ -4,7 +4,5 @@ A useless bash script for converting c++ code to asmbelly using gcc
   Install gcc if you have not already.
 
 # usage
-  Run the shell script by typing this.
-  `` bash main.sh inputfile ``
-  The inputfile will be changed to the name c++ file that you are going to convert.
+  Run the shell script by typing this ``bash main.sh`` and then adding your input files name as the argument.
   
